@@ -1,6 +1,6 @@
 # FashionBotApplication
 
-PriceWatch Bot is a Java 21 Spring Boot application that:
+FashionBot Bot is a Java 21 Spring Boot application that currently can:
 
 🎯 Monitors Zalando product prices via the Retailed API
 
