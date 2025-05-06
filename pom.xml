@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.nguyen</groupId>
-    <artifactId>fashion</artifactId>
+    <artifactId>weekend</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>price-bot</name>
     <description>Fun project for price alert bot</description>
