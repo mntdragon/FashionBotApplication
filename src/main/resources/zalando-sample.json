@@ -1,0 +1,48 @@
+{
+  "sku": "AD12100GS-M11",
+  "name": "TEE BERLIN UNISEX - Printtipaita - collegiate green",
+  "brand": "adidas Originals",
+  "color": "collegiate green/tummanvihreä",
+  "images": [
+    "https://img01.ztat.net/article/spp-media-p1/1fa8b204216c4e20b5ccd5ed396b8997/a3401ccf0c424607aed3d730f714c418.jpg?imwidth=200",
+    "https://img01.ztat.net/article/spp-media-p1/6ee560c3ad00416992294bda23e8b54e/2c6ece62094b4440a002432c6ebb13c2.jpg?imwidth=200",
+    "https://img01.ztat.net/article/spp-media-p1/e2ffe651fd484cd6894b27926d3eb6e4/8e86d04043334a5d86044b934656e76d.jpg?imwidth=200",
+    "https://img01.ztat.net/article/spp-media-p1/dfbc61c48d11401d8e7d6723049b3078/9204d031320a450fa1d291d9357e5300.jpg?imwidth=200",
+    "https://img01.ztat.net/article/spp-media-p1/3cc302fc9c85483989c83ca17cc22371/76bc981a591346f7bce990e426866f94.jpg?imwidth=200&filter=packshot",
+    "https://img01.ztat.net/article/spp-media-p1/dcb67645fa3a42f98f5f6fa3c3e9b4b7/d768626abe6b446bb8a6c1b3ccbd0a34.jpg?imwidth=200"
+  ],
+  "variants": [
+    {
+      "sku": "AD12100GS-M1100XS000",
+      "price": 18.95,
+      "price_currency": "EUR"
+    },
+    {
+      "sku": "AD12100GS-M11000S000",
+      "price": 18.95,
+      "price_currency": "EUR"
+    },
+    {
+      "sku": "AD12100GS-M11000M000",
+      "price": 18.95,
+      "price_currency": "EUR"
+    },
+    {
+      "sku": "AD12100GS-M11000L000",
+      "price": 18.95,
+      "price_currency": "EUR"
+    },
+    {
+      "sku": "AD12100GS-M1100XL000",
+      "price": 18.95,
+      "price_currency": "EUR"
+    },
+    {
+      "sku": "AD12100GS-M110XXL000",
+      "price": 18.95,
+      "price_currency": "EUR"
+    }
+  ],
+  "description": "Tilaa  adidas Originals TEE BERLIN UNISEX - Printtipaita - collegiate green : 18,95 € (2025-05-06) Zalandolta. Ilmainen toimitus useimmille tilauksille*",
+  "manufacturer": "adidas Originals"
+}
